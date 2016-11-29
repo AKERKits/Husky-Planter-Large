@@ -10,7 +10,7 @@ The **AKER Husky Planter - Large** is a large garden kit designed to be fabricat
 
 We model each kit in SolidWorks. To access the parametric source files, download the *AKER - Husky Planter-Large - v1.0.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
 
-The **Husky Planter-Large** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
+The **Husky Planter - Large** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
  * 0.5 in Sheet Thickness / 0.375 in. or Smaller Bit Diameter
  * 0.75 in Sheet Thickness / 0.375 in. or Smaller Bit Diameter
